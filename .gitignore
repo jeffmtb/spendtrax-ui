@@ -1,0 +1,47 @@
+# Dependencies and generated build output
+node_modules/
+dist/
+.vite/
+src-tauri/target/
+src-tauri/gen/schemas/
+*.tsbuildinfo
+coverage/
+
+# Local financial databases, SQLite sidecars, and backups (at any depth)
+*.[dD][bB]
+*.[dD][bB]-*
+*.[dD][bB].*
+*.[sS][qQ][lL][iI][tT][eE]
+*.[sS][qQ][lL][iI][tT][eE]-*
+*.[sS][qQ][lL][iI][tT][eE].*
+*.[sS][qQ][lL][iI][tT][eE]3
+*.[sS][qQ][lL][iI][tT][eE]3-*
+*.[sS][qQ][lL][iI][tT][eE]3.*
+*.bak
+*.backup
+*.dump
+*.csv
+backups/
+exports/
+db_path.txt
+
+# Local configuration, credentials, signing keys, and logs
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+*.log
+.aws/
+.codex/
+.agents/
+
+# Machine-specific editor and operating-system files
+.idea/
+.vscode/*
+!.vscode/extensions.json
+.DS_Store
+Thumbs.db
+*~

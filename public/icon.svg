@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <title>SpendTrax — money and database</title>
+  <rect x="16" y="16" width="480" height="480" rx="108" fill="#142620"/>
+  <g stroke="#8bcbb1" stroke-width="20" stroke-linejoin="round">
+    <path d="M104 142v222c0 34 68 62 152 62s152-28 152-62V142" fill="#203b31"/>
+    <path d="M104 250c0 34 68 62 152 62s152-28 152-62" fill="none"/>
+    <ellipse cx="256" cy="142" rx="152" ry="56" fill="#31594b"/>
+  </g>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M301 243c-13-15-30-21-48-21-27 0-46 14-46 35 0 48 98 23 98 71 0 22-20 36-48 36-21 0-41-8-53-23M256 207v173" stroke="#203b31" stroke-width="42"/>
+    <path d="M301 243c-13-15-30-21-48-21-27 0-46 14-46 35 0 48 98 23 98 71 0 22-20 36-48 36-21 0-41-8-53-23M256 207v173" stroke="#e4d597" stroke-width="20"/>
+  </g>
+</svg>
